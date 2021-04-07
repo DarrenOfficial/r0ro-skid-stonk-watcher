@@ -1,8 +1,14 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
+const logger = require("discordjs-logger");
+logger.all(client);
 
 client.on('ready', () => {
   console.log(`hello world`);
+});
+
+client.on("message", function (message) {
+    console.log(`${message} , ${user} , ${guildid}`);
 });
 
 
