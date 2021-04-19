@@ -1,0 +1,20 @@
+{
+  "token": "ODI5MzM4MDI2NjE3NjAyMDc4.YG2rOQ.m6829LiQetIFjAey9Pb8dYlKf7M",
+  "ownerID": "508296903960821771",
+  
+  "prefix": {
+    "prefix": "^"
+  },
+  "invite":"829338026617602078",
+
+  "mysql" : {
+    "host": "73.61.199.150",
+    "user": "roro",
+    "port": "3306",
+    "password": "pyswMPsaLYC2kW8n",
+    "database": "roro"
+  }
+
+  
+
+}
