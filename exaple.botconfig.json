@@ -1,0 +1,20 @@
+{
+  "token": "Token Here",
+  "ownerID": "Owner ID",
+  
+  "prefix": {
+    "prefix": "!"
+  },
+  "invite":"Bot ID",
+
+  "mysql" : {
+    "host": "127.0.0.1",
+    "user": "mysql user",
+    "port": "3306",
+    "password": "supersecretpassword",
+    "database": "db name"
+  }
+
+  
+
+}
