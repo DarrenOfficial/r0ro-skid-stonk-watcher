@@ -1,6 +1,6 @@
 # Stonk Market Bot
 
-Stock market bot is a bot for monitoring server status and spit it in to embed for the parent server
+Stock market bot is a bot for monitoring server usage/message.
 
 ## Dependencies
 
